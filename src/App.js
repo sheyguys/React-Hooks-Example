@@ -15,8 +15,6 @@ const App = () => {
     })
   });
 
-  // ใส่ log เพื่อดูว่ามัน render ยังไง
-  console.log('render >>>')
   return (
     <div className="App">
       <header className="App-header">
